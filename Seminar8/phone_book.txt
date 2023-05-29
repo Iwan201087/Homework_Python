@@ -1,0 +1,3 @@
+James:Hetfield:123456:coment
+Kirk:Hammett:654321:coment
+Lars:Ulrich:678912:coment
