@@ -50,6 +50,6 @@ def start():
                 view.print_message(text.delete_successful)
                 my_pb.save()
 
-            case 8: # выйти и спросить о сохранении
+            case 8: # выйти, а так же спросить о сохранении
                 my_pb.ask_user_for_save_pb()
                 break
